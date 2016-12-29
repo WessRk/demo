@@ -1,2 +1,1 @@
-# demo
-Demo repository!
+This is a README! It's is for my Githun repo demo.
